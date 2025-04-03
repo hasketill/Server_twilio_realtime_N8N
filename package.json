@@ -1,0 +1,12 @@
+{
+  "name": "server-agent-ia",
+  "version": "1.0.0",
+  "main": "Serveur WebSocket avec intégration Twilio pour API en temps réel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
